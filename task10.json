@@ -1,0 +1,126 @@
+{
+    "M": {
+        "Tamil": 1,
+        "Telugu": 1,
+        "Hindi": 1,
+        "Malayalam": 1,
+        "Marathi": 1
+    },
+    "a": {
+        "Tamil": 4,
+        "Telugu": 1,
+        "Malayalam": 2,
+        "Bengali": 1,
+        "Marathi": 1
+    },
+    "n": {
+        "Tamil": 3,
+        "Telugu": 1,
+        "Marathi": 1
+    },
+    "i": {
+        "Tamil": 1,
+        "Hindi": 1,
+        "Malayalam": 2,
+        "Bengali": 1
+    },
+    " ": {
+        "Tamil": 3,
+        "Telugu": 1,
+        "Hindi": 1,
+        "Malayalam": 1,
+        "Bengali": 1,
+        "Marathi": 1
+    },
+    "R": {
+        "Tamil": 1,
+        "Bengali": 1
+    },
+    "t": {
+        "Tamil": 2,
+        "Telugu": 1,
+        "Bengali": 1
+    },
+    "m": {
+        "Tamil": 2
+    },
+    "S": {
+        "Tamil": 1,
+        "Malayalam": 1,
+        "Bengali": 1
+    },
+    "u": {
+        "Tamil": 3,
+        "Hindi": 1
+    },
+    "d": {
+        "Tamil": 1
+    },
+    "r": {
+        "Tamil": 3,
+        "Hindi": 1,
+        "Marathi": 1
+    },
+    "C": {
+        "Tamil": 2
+    },
+    ".": {
+        "Tamil": 2
+    },
+    "P": {
+        "Tamil": 2
+    },
+    "b": {
+        "Tamil": 1,
+        "Malayalam": 1
+    },
+    "h": {
+        "Tamil": 1,
+        "Telugu": 1,
+        "Hindi": 1,
+        "Marathi": 1
+    },
+    "V": {
+        "Telugu": 1
+    },
+    "e": {
+        "Telugu": 1,
+        "Hindi": 1,
+        "Marathi": 1,
+        "Tamil": 1
+    },
+    "k": {
+        "Telugu": 1,
+        "Hindi": 1,
+        "Marathi": 1
+    },
+    "s": {
+        "Telugu": 1,
+        "Hindi": 1,
+        "Marathi": 1
+    },
+    "H": {
+        "Hindi": 1
+    },
+    "j": {
+        "Hindi": 1,
+        "Bengali": 1,
+        "Marathi": 1
+    },
+    "F": {
+        "Malayalam": 1
+    },
+    "z": {
+        "Malayalam": 1
+    },
+    "l": {
+        "Malayalam": 2
+    },
+    "y": {
+        "Malayalam": 1,
+        "Bengali": 1
+    },
+    "K": {
+        "Tamil": 1
+    }
+}
